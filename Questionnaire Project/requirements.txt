@@ -1,0 +1,14 @@
+python-docx
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-core
+chromadb
+pymupdf
+pandas
+openpyxl
+langchain-openai
+docx2txt
+streamlit
+langchain-chroma
